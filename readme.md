@@ -2,7 +2,7 @@
 
 completado: No
 
-![Untitled](Curso%20de%20Introduccio%CC%81n%20a%20Selenium%20con%20Python%20cfe7672ac1044e45b7ba8aea5f30d0ab/Untitled.png)
+![Untitled](imagenesreadme/Untitled.png)
 
 ```python
 import unittest
@@ -33,9 +33,9 @@ if __name__ == "__main__" :
     unittest.main(verbosity=2,testRunner=HTMLTestRunner(output='reportes',report_name='hello-world-report'))
 ```
 
-![Untitled](Curso%20de%20Introduccio%CC%81n%20a%20Selenium%20con%20Python%20cfe7672ac1044e45b7ba8aea5f30d0ab/Untitled%201.png)
+![Untitled](imagenesreadme/Untitled%201.png)
 
-![Untitled](Curso%20de%20Introduccio%CC%81n%20a%20Selenium%20con%20Python%20cfe7672ac1044e45b7ba8aea5f30d0ab/Untitled%202.png)
+![Untitled](imagenesreadme/Untitled%202.png)
 
 Usualmente con selenium se sigue una prioridad para encontrar elementos.
 
@@ -96,7 +96,7 @@ if __name__ == "__main__" :
     unittest.main(verbosity=2)
 ```
 
-![Untitled](Curso%20de%20Introduccio%CC%81n%20a%20Selenium%20con%20Python%20cfe7672ac1044e45b7ba8aea5f30d0ab/Untitled%203.png)
+![Untitled](imagenesreadme/Untitled%203.png)
 
 ### asertions.py
 
